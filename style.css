@@ -33,8 +33,7 @@ h1{
     margin-inline: auto;
     display: flex;
     flex-direction: column;
-    position: relative;
-    width: 80%;
+
 }
 .inputs-container input{
     width: 80%;
@@ -43,7 +42,7 @@ h1{
     color: white;
     padding: 12px;
     margin: 10px 0;
-    height: 30px;
+    height: 50px;
     box-sizing: border-box;
     outline: none;
     border: none;
